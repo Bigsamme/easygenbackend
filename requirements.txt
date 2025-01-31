@@ -9,3 +9,4 @@ gunicorn
 stripe
 supabase
 python-dotenv
+gotrue==2.6.1
