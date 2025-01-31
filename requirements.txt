@@ -4,3 +4,8 @@ stripe==7.11.0
 python-dotenv==1.0.1
 supabase==2.3.1
 pydantic==2.6.1
+Flask
+gunicorn
+stripe
+supabase
+python-dotenv
